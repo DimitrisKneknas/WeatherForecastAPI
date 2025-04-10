@@ -1,7 +1,7 @@
 # Weather Forecasting API - Project Report
 
 ## Overview
-This project implements a complete weather forecasting system using the [Meteomatics Weather API](https://www.meteomatics.com/en/weather-api/API). It retrieves 7-day forecasts for three selected cities and stores the results in a relational database. A RESTful API built with FastAPI provides access to this data via various endpoints.
+This project implements a complete weather forecasting system using the [Meteomatics Weather API](https://www.meteomatics.com/en/weather-api). It retrieves 7-day forecasts for three selected cities and stores the results in a relational database. A RESTful API built with FastAPI provides access to this data via various endpoints.
 
 ## Process Summary
 - Used Python to fetch weather forecasts for Athens, London, and Berlin.
